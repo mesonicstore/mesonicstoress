@@ -666,3 +666,16 @@ section{
         }
     }
 }
+
+.button-float{
+	position:fixed;
+	width:75px;
+	height:75px;
+	bottom:40px;
+	right:40px;
+	background-color:rgb(0, 0, 0);
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
